@@ -1,6 +1,5 @@
 <template>
     <div class="scroll">
-        x: {{posX}}
         <div class="container" @mousemove="mousemove">
             <div class="base"></div>
             <div class="left" ref="left">
