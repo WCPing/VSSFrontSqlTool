@@ -183,6 +183,7 @@
         return o
       },
       exportSQLFile: _.debounce(function() {
+        this.log('test')
         if (!this.selType) {
           this.$message({
             showClose: true,

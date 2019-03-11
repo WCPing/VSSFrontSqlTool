@@ -10,6 +10,10 @@ Vue.use(ElementUI)
 
 Vue.config.productionTip = false
 
+Vue.prototype.log = function (text) {
+  console.log(text)
+}
+
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
