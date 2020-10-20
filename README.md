@@ -1,5 +1,6 @@
 # excel-demo
-海鼎公司HDVSS项目前端向后台生成国际化脚本工具
+海鼎公司HDVSS项目前端向后台生成国际化脚本工具的可视化项目
+功能包括excel模本文件的导入导出、生成sql命令行
 
 > A Vue.js project
 
